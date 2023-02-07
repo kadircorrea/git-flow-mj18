@@ -4,6 +4,14 @@
 *.reg
 log_*.md
 
+## Temporales
+*.temp
+*.tmp
+*.swp
+temp/
+tmp/
+
 ## Carpetas excluidas
+node_modules/
 logs/
 docs/
