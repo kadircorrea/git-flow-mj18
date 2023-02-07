@@ -1,0 +1,9 @@
+## Archivos de Registro
+*.txt
+*.log
+*.reg
+log_*.md
+
+## Carpetas excluidas
+logs/
+docs/
