@@ -12,3 +12,11 @@ La configuracion puede definirse en 3 niveles (local, global, system) segun como
 * __git config user.name `name`:__ define el nombre de usuario
 * __git config user.email `email`:__ define un correo de contacto
 * __git config --list:__ muestra la configuracion general
+
+---
+
+## Contacto
+
+Para mas informacion sobre este y otros cursos pueden visitar el sitio web [EducacionIT](https://educacionit.com.ar), tambien pueden acceder al material y las clases grabadas desde la plataforma [Alumni](https://alumni.education). 
+
+Para cualquier consulta que necesite realizar, sobre el contenido, pueden enviar un correo electronico a [CristianDRacedo@hotmail.com](mailto:cristiandracedo@hotmail.com)
