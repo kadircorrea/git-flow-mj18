@@ -1,0 +1,64 @@
+/* Content First */
+/* Importaciones */
+    @import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+/* Estilos generales */
+    *{
+        box-sizing: border-box;
+        font-family: 'Ubuntu', 'Century Gothic', sans-serif;
+        scroll-behavior: smooth;
+    }
+/* Navegacion */
+
+/* Cabecera */
+
+    /* Encabezado */
+
+    /* Galeria */
+
+/* Contenido */
+
+    /* Areas de GIT */
+
+    /* Apuntadores de GIT */
+
+    /* Control de Cambios */
+
+/* Pie de Pagina */
+
+    /* Mapa de Contacto */
+
+    /* Repositorios */
+
+    /* Colaboradores */
+    .table{
+        max-width: 720px;
+        margin: auto;
+    }
+    .table,
+    .table caption,
+    .table th,
+    .table td{
+        border: 2px solid #448;
+    }
+    .table caption{
+        border-top: none;
+        border-radius: 0 0 .5rem .5rem;
+    }
+    .table caption,
+    .table thead{
+        color: #eee;
+        background-color: #448;
+    }
+    /* Formulario Contacto */
+
+    /* Redes sociales */
+
+    /* Derechos de Autor */
+
+/* Small Devices - smartphones */
+
+/* Medium Devices - Tablets */
+
+/* Large Devices - Laptops */
+
+/* Extra Large - Desktop */
