@@ -13,6 +13,7 @@ temp/
 tmp/
 
 ## Carpetas excluidas
+.idea/
 node_modules/
 logs/
 docs/
