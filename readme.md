@@ -22,6 +22,15 @@ Si necesitamos agregar una direccion de un servidor de GIT, para subir nuestro h
 * __git pull `remote` `branch`:__ descarga e integra los cambios del respositorio remoto al working directory
 * __git push `remote` `branch`:__ envia el historial de confirmaciones al repositorio remoto
 
+## Apuntadores de GIT
+
+Son referencias que permiten al usuario navegar dentro de historial de confirmaciones, ademas que facilitan la identificacion de ciertos puntos dentro del registro de cambios. Entre los punteros que exiten en git, se encuentran los siguientes:
+
+* __HEAD:__ Apuntador Movil que indica donde nos encontramos dentro de historial de confirmaciones, ademas sirve como referencia para desplazarse dentro del mismo.
+* __BRANCH:__ Apuntador Dinamico que siempre se corresponde con el ultimo commit de la historia actual, se utiliza como referencia cuando necesitamos ir hacia adelante.
+* __TAG:__ Apuntador Estatico que se corresponde con un commit en concreto y se utiliza para el versionado del proyecto y facilitar la navegacion a ciertos puntos de la historia.
+* __STASH:__ Apuntador de la Zona Temporal de cambios, se utiliza cuando debemos cambiar entre ramas, pero tenemos trabajo en progreso y no amerita un commmit, genera una referencia.
+
 ---
 
 ## Contacto

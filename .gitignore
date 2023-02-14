@@ -1,4 +1,5 @@
 ## Archivos de Registro
+*.idea
 *.txt
 *.log
 *.reg
@@ -12,6 +13,7 @@ temp/
 tmp/
 
 ## Carpetas excluidas
+.idea/
 node_modules/
 logs/
 docs/
