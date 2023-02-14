@@ -30,7 +30,13 @@
     /* Repositorios */
 
     /* Colaboradores */
-
+    .table,
+    .table caption,
+    .table tr,
+    .table td{
+        color: #ccc;
+        background-color: rgb(68, 68, 136, .5);
+    }
     /* Formulario Contacto */
 
     /* Redes sociales */
