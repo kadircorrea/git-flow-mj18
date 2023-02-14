@@ -30,7 +30,26 @@
     /* Repositorios */
 
     /* Colaboradores */
-
+    .table,
+    .table caption{
+        color: #eee;
+        text-shadow: 0 0 .5rem #333;
+    }
+    .table thead{
+        background-color: #c36;
+    }
+    .table tbody{
+        background: linear-gradient(#c36, #448);
+    }
+    .table caption{
+        background-color: #448;
+    }
+    .table tbody tr:nth-child(even){
+        background-color: hsl(0, 0%, 90%, .4);
+    }
+    .table tbody tr:nth-child(odd){
+        background-color: hsl(0, 0%, 70%, .4);
+    }
     /* Formulario Contacto */
 
     /* Redes sociales */
