@@ -39,17 +39,17 @@ Este proyecto fue desarrollado en conjunto con los siguiente colaboradores, los 
 
 |colaborador|area|
 |-|-|
-|**c215714n** | ** |
+|**c215714n** | *remotes and colaborators* |
 |**Baxoni** | ** |
 |**DarioAyala99** | ** |
 |**Draguz96** | ** |
 |**EmilyCHG** | ** |
-|**GsusLara** | ** |
+|**GsusLara** | *Navbar* |
 |**jzuliali** | ** |
 |**kadircorrea** | ** |
 |**MaiteMB** | ** |
 |**tano8721** | ** |
-|**wakamedia** | ** |
+|**wakamedia** | Portfolio And Projects |
 |**YamilaUNAJ** | ** |
 
 ## Contacto
