@@ -28,7 +28,27 @@
     /* Mapa de Contacto */
 
     /* Repositorios */
-
+    .repo a{
+        width: 4.5rem;
+        height: 4.5rem;
+        margin: .5rem 0;
+        border-radius: .25rem;
+        background: #ccc var(--bg) center/2.5rem no-repeat;
+    }
+    .repo a:hover{
+        background: #eee var(--bg) center/3.5rem no-repeat;
+        box-shadow: 0 .2rem .5rem #333;
+    }
+    .github{
+        --bg: url('../assets/icon/github.png')
+    }
+    .gitlab{
+        --bg: url('../assets/icon/gitlab.png')
+    }
+    .bitbucket{
+    
+        --bg: url('../assets/icon/bitbucket.png')
+    }
     /* Colaboradores */
     .table{
         max-width: 720px;
