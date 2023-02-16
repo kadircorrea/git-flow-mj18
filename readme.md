@@ -49,7 +49,7 @@ Este proyecto fue desarrollado en conjunto con los siguiente colaboradores, los 
 |**kadircorrea** | ** |
 |**MaiteMB** | ** |
 |**tano8721** | ** |
-|**wakamedia** | ** |
+|**wakamedia** | Portfolio And Projects |
 |**YamilaUNAJ** | ** |
 
 ## Contacto
