@@ -44,7 +44,7 @@ Este proyecto fue desarrollado en conjunto con los siguiente colaboradores, los 
 |**DarioAyala99** | ** |
 |**Draguz96** | ** |
 |**EmilyCHG** | ** |
-|**GsusLara** | *Navbar, Footer* |
+|**GsusLara** | *Navbar* |
 |**jzuliali** | ** |
 |**kadircorrea** | ** |
 |**MaiteMB** | ** |
