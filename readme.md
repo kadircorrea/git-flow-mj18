@@ -33,8 +33,27 @@ Son referencias que permiten al usuario navegar dentro de historial de confirmac
 
 ---
 
+## Colaboradores
+
+Este proyecto fue desarrollado en conjunto con los siguiente colaboradores, los cuales se encargaron de realizar, editar y corregir las areas que se detallan en la siguiente tabla:
+
+|colaborador|area|
+|-|-|
+|**c215714n** | ** |
+|**Baxoni** | ** |
+|**DarioAyala99** | ** |
+|**Draguz96** | ** |
+|**EmilyCHG** | ** |
+|**GsusLara** | ** |
+|**jzuliali** | ** |
+|**kadircorrea** | ** |
+|**MaiteMB** | ** |
+|**tano8721** | ** |
+|**wakamedia** | ** |
+|**YamilaUNAJ** | ** |
+
 ## Contacto
 
 Para mas informacion sobre este y otros cursos pueden visitar el sitio web [EducacionIT](https://educacionit.com.ar), tambien pueden acceder al material y las clases grabadas desde la plataforma [Alumni](https://alumni.education). 
 
-Para cualquier consulta que necesite realizar, sobre el contenido, pueden enviar un correo electronico a [CristianDRacedo@hotmail.com](mailto:cristiandracedo@hotmail.com)
+Para cualquier consulta que necesite realizar, sobre el contenido, pueden enviar un correo electronico a [CristianDRacedo|hotmail.com](mailto:cristiandracedo|hotmail.com)
