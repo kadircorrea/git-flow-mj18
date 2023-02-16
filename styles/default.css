@@ -36,13 +36,14 @@
         padding: .5rem 1rem;
         text-decoration: none;
         color: #eee;
-        background-color: #333;
+        background: linear-gradient(to right, #66c, #333) left/300%;
+        transition: all .5s ease;
     }
     .repo a::before{
         content: attr(title);
     }
     .repo a:hover{
-        background-color: #666;
+        background-position: right;
     }
     /* Colaboradores */
     .table{
