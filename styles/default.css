@@ -16,7 +16,40 @@
     /* Galeria */
 
 /* Contenido */
+    /* Section Portfolio */
+    .projects-images svg{
+        height: 300px;
+        overflow: hidden;
+        position: relative;
+    }
+    .projects-images {
+        max-height: 100%;
+        min-width: 100%;
 
+    }
+    .details{
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,255,0.534);
+        transform: scaleX(0);
+        transition: transform 0.5s ease-in-out;
+    }
+    .projects-images:hover .details{
+        transform: scaleX(1);
+    }
+    .details h2, h3, i, a{
+        color: whitesmoke;
+        text-align: center;
+    }
+    .details i{
+        font-size: 30px;
+    }
     /* Areas de GIT */
 
     /* Apuntadores de GIT */
