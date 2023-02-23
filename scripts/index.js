@@ -18,10 +18,10 @@ function toggle(object){
 }
 //#Funciones
 //#Eventos
-    mapButton.onclick = () => toggle({
+    mapButton.addEventListener('click', () => toggle({
         btn: mapButton,
         target: mapFrame,
         className,
         classes: ['icon-plus', 'icon-less']
-    })
+    } ) );
 //#Eventos
