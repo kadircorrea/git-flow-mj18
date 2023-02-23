@@ -40,7 +40,7 @@
         transform: scaleX(0);
         transition: transform 0.5s ease-in-out;
     }
-    .projects-images:hove .details{
+    .projects-images:hover .details{
         transform: scaleX(1);
     }
     .details h2, h3, i, a{
