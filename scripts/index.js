@@ -10,15 +10,18 @@
     ;
 //#Declaraciones
 //#Funciones
-
+function toggle(object){
+    const { btn, target, className, classes } = object;
+    target.classList.toggle(className) ?
+    btn.classList.replace(classes[0], classes[1]) :
+    btn.classList.replace(classes[1], classes[0])
+}
 //#Funciones
 //#Eventos
-    mapButton.onclick = function(){
-        if (mapFrame.classList.toggle(className)){
-            mapButton.classList.replace('icon-plus', 'icon-less')
-        }
-        else{
-            mapButton.classList.replace('icon-less', 'icon-plus')
-        }
-    }
+    mapButton.onclick = () => toggle({
+        btn: mapButton,
+        target: mapFrame,
+        className,
+        classes: ['icon-plus', 'icon-less']
+    })
 //#Eventos
