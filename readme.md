@@ -39,7 +39,7 @@ Este proyecto fue desarrollado en conjunto con los siguiente colaboradores, los 
 
 |colaborador|area|
 |-|-|
-|**c215714n** | ** |
+|**c215714n** | *remotes and colaborators* |
 |**Baxoni** | ** |
 |**DarioAyala99** | ** |
 |**Draguz96** | ** |
