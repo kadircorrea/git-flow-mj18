@@ -10,7 +10,7 @@
     ;
 //#Declaraciones
 //#Funciones
-const toggle = (object) => {
+function toggle(object){
     const { btn, target, className, classes } = object;
     target.classList.toggle(className) ?
     btn.classList.replace(classes[0], classes[1]) :
@@ -18,10 +18,10 @@ const toggle = (object) => {
 }
 //#Funciones
 //#Eventos
-    mapButton.addEventListener('click', toggle({
+    mapButton.onclick = () => toggle({
         btn: mapButton,
         target: mapFrame,
         className,
         classes: ['icon-plus', 'icon-less']
-    } ) );
+    })
 //#Eventos
